@@ -1,0 +1,19 @@
+body {
+  line-height: 1.4;
+  word-break: break-all;
+}
+
+.wrapper {
+  position: relative;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+  margin: 0;
+  padding-left: 20px;
+}
